@@ -1,5 +1,4 @@
-# Parkinson's-disease-detection
-# Parkinson 🧠 Disease ⚕️ Detection 🔍
+## Parkinson 🧠 Disease ⚕️ Detection 🔍
 # forthebadge made-with-python
 # This project aims to make use of Machine Learning techniques to detect instances of Parkinson's Disease. The project performs the following tasks:
 # 1️⃣ Data Collection
